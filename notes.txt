@@ -7,4 +7,4 @@ Fork
 	
 oc create -f https://raw.githubusercontent.com/gshipley/openshift3mlbparks/master/mlbparks-template-wildfly.json
 
-oc create -f https://raw.github.com/rwaggsCO/openshift3mlbparks/blob/master/templates/mlbparks-template-wildfly.json
+oc create -f https://raw.githubusercontent.com/rwaggsCO/openshift3mlbparks/master/mlbparks-template-wildfly.json
