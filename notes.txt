@@ -1,0 +1,10 @@
+Source
+	https://github.com/gshipley/openshift3mlbparks.
+
+Fork
+	https://github.com/rwaggsCO/openshift3mlbparks
+
+	
+oc create -f https://raw.githubusercontent.com/gshipley/openshift3mlbparks/master/mlbparks-template-wildfly.json
+
+oc create -f https://raw.github.com/rwaggsCO/openshift3mlbparks/blob/master/templates/mlbparks-template-wildfly.json
